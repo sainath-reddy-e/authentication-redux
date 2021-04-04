@@ -2,7 +2,7 @@
 
 ### Demo
 
-![Demo]('https://raw.githubusercontent.com/ganeshmani/redux-toolkit-user-flow/master/demo.gif')
+![Demo]('https://authenticationwithredux.netlify.app/register')
 
 ### Libraries Used
 -  [React/Redux Toolkit](https://redux-toolkit.js.org/)
